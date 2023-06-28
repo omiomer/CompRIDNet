@@ -6,4 +6,4 @@ In this project, we experimented with state-of-the-art neural network architectu
 The results could be replicated with an image library of choice.
 
 
-![Architecture of the Main Model]([https://github.com/omiomer/CompRIDNet/blob/main/graphson3.pdf])
+<img width="998" alt="Architecture" src="https://github.com/omiomer/CompRIDNet/assets/17302083/c028b324-249c-4b02-9846-867b90bf7e8c">
